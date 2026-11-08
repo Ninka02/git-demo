@@ -6,3 +6,4 @@ It will be used for the “Use Git and GitHub” exercise.
 ## Second Section
 
 Here we add a second paragraph to demonstrate a new commit.
+*Experiment note on branchcheckout -b experiment
